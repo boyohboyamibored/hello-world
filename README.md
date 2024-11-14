@@ -12,3 +12,9 @@ This is a repository I use to learn and experiment with git.
 1. Unsuccessful: Shouldn't have directly edited main branch.
 2. Successful
 3. Hopefully sucessful
+
+
+## Making push requests
+1. First try.
+2. Hello, why is this not working?
+3. Got it working merging to main branch.
